@@ -1,282 +1,282 @@
-,0,1,2,3
-0,,,,
-1,MA079, Abington Housing Authority Phone: (781)878-3469Fax: (781)878-9059," 71 Shaw Avenue Abington
+,0,1,2,3,4,5,6
+0,,,,,,,
+1,MA079, Abington Housing Authority ,abington.housing@verizon.net, (781)878-3469, (781)878-9059," 71 Shaw Avenue Abington
       MA 02351 ", Section 8 
-2,MA057, Acton Housing Authority Phone: (978)263-5339Fax: (978)266-1408," 68 Windsor Avenue Acton
+2,MA057, Acton Housing Authority ,kelley@actonhousing.net, (978)263-5339, (978)266-1408," 68 Windsor Avenue Acton
       MA 01720 ", Section 8 
-3,MA051, Adams Housing Authority Phone: (413)743-5924Fax: (413)743-5926," 4 Columbia Street Adams
+3,MA051, Adams Housing Authority ,adamsha@bcn.net, (413)743-5924, (413)743-5926," 4 Columbia Street Adams
       MA 01220 ", Section 8 
-4,MA116, Amesbury Housing Authority Phone: (978)388-2022Fax: (978)388-4926," 180 Main Street Amesbury
+4,MA116, Amesbury Housing Authority ,AHAexecutive@comcast.net, (978)388-2022, (978)388-4926," 180 Main Street Amesbury
       MA 01913 ", Section 8 
-5,MA085, Amherst Housing Authority Phone: (413)256-0206Fax: (413)256-8551," 33 Kellogg Avenue Amherst
+5,MA085, Amherst Housing Authority ,dcrabtree@amhersthousingauthority.org, (413)256-0206, (413)256-8551," 33 Kellogg Avenue Amherst
       MA 01002 ", Both 
-6,MA084, Andover Housing Authority Phone: (978)475-2365Fax: (978)475-0313," 100 Morton Street Andover
+6,MA084, Andover Housing Authority ,chrisaha@hotmail.com, (978)475-2365, (978)475-0313," 100 Morton Street Andover
       MA 01810 ", Section 8 
-7,MA048, Arlington Housing Authority Phone: (781)646-3400Fax: (781)643-6923," 4 Winslow Street Arlington
+7,MA048, Arlington Housing Authority ,jgriffin@arlingtonhousing.org, (781)646-3400, (781)643-6923," 4 Winslow Street Arlington
       MA 02474 ", Section 8 
-8,MA100, Athol Housing Authority Phone: (978)249-4848Fax: (978)249-9604," 21 Morton Meadows Athol
+8,MA100, Athol Housing Authority ,athol.housing@verizon.net, (978)249-4848, (978)249-9604," 21 Morton Meadows Athol
       MA 01331 ", Section 8 
-9,MA018, Attleboro Housing Authority Phone: (508)222-0151Fax: (508)222-4389," 37 Carlon Street Attleboro
+9,MA018, Attleboro Housing Authority ,jz@attleborohousing.org, (508)222-0151, (508)222-4389," 37 Carlon Street Attleboro
       MA 02703 ", Section 8 
-10,MA159, Auburn Housing Authority Phone: (508)832-3852Fax: (508)832-5684," 200 Oxford Street N Auburn
+10,MA159, Auburn Housing Authority ,lbrennan.auburnhousing@verizon.net, (508)832-3852, (508)832-5684," 200 Oxford Street N Auburn
       MA 01501 ", Low-Rent 
-11,MA090, Bellingham Housing Authority Phone: (508)883-4999Fax: (508)883-6719," 10 Wrentham Manor Bellingham
+11,MA090, Bellingham Housing Authority ,bellinha@verizon.net, (508)883-4999, (508)883-6719," 10 Wrentham Manor Bellingham
       MA 02019 ", Section 8 
-12,MA042, Belmont Housing Authority Phone: (617)484-2160Fax: (617)484-4862," 59 Pearson Road Belmont
+12,MA042, Belmont Housing Authority ,DonnaHamilton@verizon.net, (617)484-2160, (617)484-4862," 59 Pearson Road Belmont
       MA 02178 ", Section 8 
-13,MA044, Beverly Housing Authority Phone: (978)922-3100Fax: (978)921-2121," 137 Bridge Street (Rear) Beverly
+13,MA044, Beverly Housing Authority ,bhaexecutive@msn.com, (978)922-3100, (978)921-2121," 137 Bridge Street (Rear) Beverly
       MA 01915 ", Both 
-14,MA077, Billerica Housing Authority Phone: (978)667-1661Fax: (978)667-1156," 16 River Street Billerica
+14,MA077, Billerica Housing Authority ,bcox@billericahousing.org, (978)667-1661, (978)667-1156," 16 River Street Billerica
       MA 01821 ", Section 8 
-15,MA901, Mass Dhcd Phone: (617)573-1150Fax: (617)573-1345," 100 Cambridge Street, Suite.300 
+15,MA901, Mass Dhcd ,bob.cohen@state.ma.us, (617)573-1150, (617)573-1345," 100 Cambridge Street, Suite.300 
       Bureau of Federal Rental Assistance Boston
       MA 02114 ", Section 8 
-16,MA002, Boston Housing Authority Phone: (617)988-4000Fax: (617)988-4027," 52 Chauncy Street Boston
+16,MA002, Boston Housing Authority ,marilyn.osullivan@bostonhousing.org, (617)988-4000, (617)988-4027," 52 Chauncy Street Boston
       MA 02111 ", Both 
-17,MA053, Braintree Housing Authority Phone: (781)848-1484Fax: (781)380-4333," 25 Roosevelt Street Braintree
+17,MA053, Braintree Housing Authority ,lmurphy@braintreehousingauthority.org, (781)848-1484, (781)380-4333," 25 Roosevelt Street Braintree
       MA 02184 ", Section 8 
-18,MA126, Bridgewater Housing Authority Phone: (508)697-7405Fax: (508)697-9534," 10 Heritage Circle Bridgewater
+18,MA126, Bridgewater Housing Authority ,karen.rudd@bridgewaterha.org, (508)697-7405, (508)697-9534," 10 Heritage Circle Bridgewater
       MA 02324 ", Section 8 
-19,MA024, Brockton Housing Authority Phone: (508)588-6880Fax: (508)588-8271," 45 Goddard Road 
+19,MA024, Brockton Housing Authority ,tomt@brocktonhousingauthority.com, (508)588-6880, (508)588-8271," 45 Goddard Road 
       PO Box 7070 Brockton
       MA 02301 ", Both 
-20,MA884, Brockton Area Multi Services Inc. (Bamsi) Phone: (508)580-8700Fax: (508)580-3114," 10 Christy's Drive Brockton
+20,MA884, Brockton Area Multi Services Inc. (Bamsi) ,asimonelli@bamsi.org, (508)580-8700, (508)580-3114," 10 Christy's Drive Brockton
       MA 02301 ", Section 8 
-21,MA033, Brookline Housing Authority Phone: (617)277-2022Fax: (617)277-1462," 90 Longwood Avenue Brookline
+21,MA033, Brookline Housing Authority ,pdober@brooklinehousing.org, (617)277-2022, (617)277-1462," 90 Longwood Avenue Brookline
       MA 02446 ", Both 
-22,MA112, Burlington Housing Authority Phone: (781)272-7786Fax: (781)229-2378," 15 Birchcrest Street Burlington
+22,MA112, Burlington Housing Authority ,bha.ma@comcast.net, (781)272-7786, (781)229-2378," 15 Birchcrest Street Burlington
       MA 01803 ", Section 8 
-23,MA003, Cambridge Housing Authority Phone: (617)864-3020Fax: (617)547-9821," 675 Massachusetts Avenue Cambridge
+23,MA003, Cambridge Housing Authority ,ed@cambridge-housing.org, (617)864-3020, (617)547-9821," 675 Massachusetts Avenue Cambridge
       MA 02139 ", Both 
-24,MA883," American Training, Inc Phone: (978)256-7425Fax: (978)256-1895"," 10 Wilson Street Chelmsford
+24,MA883," American Training, Inc ",CHELMHA@aol.com, (978)256-7425, (978)256-1895," 10 Wilson Street Chelmsford
       MA 01824 ", Section 8 
-25,MA108, Chelmsford Housing Authority Phone: (978)256-7425Fax: (978)256-1895," 10 Wilson Street Chelmsford
+25,MA108, Chelmsford Housing Authority ,CHELMHA@aol.com, (978)256-7425, (978)256-1895," 10 Wilson Street Chelmsford
       MA 01824 ", Section 8 
-26,MA016, Chelsea Housing Authority Phone: (617)884-5617Fax: (617)889-8158," 54 Locke Street Chelsea
+26,MA016, Chelsea Housing Authority ,aewing@chelseaha.com, (617)884-5617, (617)889-8158," 54 Locke Street Chelsea
       MA 02150 ", Both 
-27,MA008, Chicopee Housing Authority Phone: (413)592-6132Fax: (413)594-7750," 128 Meetinghouse Road Chicopee
+27,MA008, Chicopee Housing Authority ,mpblazic@chicopeehousing.org, (413)592-6132, (413)594-7750," 128 Meetinghouse Road Chicopee
       MA 01013 ", Both 
-28,MA021, Clinton Housing Authority Phone: (978)365-4150Fax: (978)365-4153," 58 Fitch Road Clinton
+28,MA021, Clinton Housing Authority ,clintonhousingauthority@comcast.net, (978)365-4150, (978)365-4153," 58 Fitch Road Clinton
       MA 01510 ", Low-Rent 
-29,MA098, Concord Housing Authority Phone: (978)369-8435Fax: (781)369-4269," 34 Everett Street Concord
+29,MA098, Concord Housing Authority ,cha.office@verizon.net, (978)369-8435, (781)369-4269," 34 Everett Street Concord
       MA 01742 ", Both 
-30,MA118, Danvers Housing Authority Phone: (978)777-0909Fax: (978)777-0955," 14 Stone Street Danvers
+30,MA118, Danvers Housing Authority ,Cynthia.dunn1@verizon.net, (978)777-0909, (978)777-0955," 14 Stone Street Danvers
       MA 01923 ", Both 
-31,MA172, Dartmouth Housing Authority Phone: (508)994-1424Fax: (508)994-1481," 2 Anderson Way Dartmouth
+31,MA172, Dartmouth Housing Authority ,DHAConnie@comcast.net, (508)994-1424, (508)994-1481," 2 Anderson Way Dartmouth
       MA 02747 ", Section 8 
-32,MA040, Dedham Housing Authority Phone: (781)326-3543Fax: (781)326-1023," Dedham Housing Authority 
+32,MA040, Dedham Housing Authority ,joanne@dedhamhousing.org, (781)326-3543, (781)326-1023," Dedham Housing Authority 
       163 Dedham Boulevard Dedham
       MA 02026 ", Both 
-33,MA043, Dracut Housing Authority Phone: (978)957-3515Fax: (978)957-3399," 971 Mammoth Road Dracut
+33,MA043, Dracut Housing Authority ,drahouse@aol.com, (978)957-3515, (978)957-3399," 971 Mammoth Road Dracut
       MA 01826 ", Both 
-34,MA071, Duxbury Housing Authority Phone: (781)934-6618Fax: (781)934-3289," 59 Chestnut Street Duxbury
+34,MA071, Duxbury Housing Authority ,duxburyhousingauth.na@verizon.net, (781)934-6618, (781)934-3289," 59 Chestnut Street Duxbury
       MA 02332 ", Section 8 
-35,MA027, Everett Housing Authority Phone: (617)387-6389Fax: (617)389-4936," 393 Ferry Street Everett
+35,MA027, Everett Housing Authority ,jpcod.eha@comcast.net, (617)387-6389, (617)389-4936," 393 Ferry Street Everett
       MA 02149 ", Section 8 
-36,MA006, Fall River Housing Authority Phone: (508)675-3500Fax: (508)677-1346," 85 Morgan Street Fall River
+36,MA006, Fall River Housing Authority ,tom@fallriverha.org, (508)675-3500, (508)677-1346," 85 Morgan Street Fall River
       MA 02722 ", Both 
-37,MA047, Falmouth Housing Authority Phone: (508)548-1977Fax: (508)457-7573," 115 Scranton Avenue Falmouth
+37,MA047, Falmouth Housing Authority ,tlacey@falmouthhousing.org, (508)548-1977, (508)457-7573," 115 Scranton Avenue Falmouth
       MA 02540 ", Both 
-38,MA037, Fitchburg Housing Authority Phone: (978)342-5222Fax: (978)343-4148," 50 Day Street Fitchburg
+38,MA037, Fitchburg Housing Authority ,bob.hill@fitchburgha.org, (978)342-5222, (978)343-4148," 50 Day Street Fitchburg
       MA 01420 ", Both 
-39,MA028, Framingham Housing Authority Phone: (508)879-7562Fax: (508)626-0252," 1 John J. Brady Drive Framingham
+39,MA028, Framingham Housing Authority ,kbumpus@framha.org, (508)879-7562, (508)626-0252," 1 John J. Brady Drive Framingham
       MA 01702 ", Both 
-40,MA127, Gardner Housing Authority Phone: (978)632-6634Fax: (978)632-9530," Gardner Housing Authority--Section 8 Off 
+40,MA127, Gardner Housing Authority ,davec@gardnerha.com, (978)632-6634, (978)632-9530," Gardner Housing Authority--Section 8 Off 
       116 Church Street Gardner
       MA 01440 ", Section 8 
-41,MA025, Gloucester Housing Authority Phone: (978)281-4770Fax: (978)281-6945," 259 Washington Street Gloucester
+41,MA025, Gloucester Housing Authority ,dhoulden@ghama.com, (978)281-4770, (978)281-6945," 259 Washington Street Gloucester
       MA 01930 ", Both 
-42,MA096, Greenfield Housing Authority Phone: (413)774-2932Fax: (413)772-0616," 1 Elm Terrace Greenfield
+42,MA096, Greenfield Housing Authority ,JCariddi@greenfieldhousing.org, (413)774-2932, (413)772-0616," 1 Elm Terrace Greenfield
       MA 01301 ", Section 8 
-43,MA132, Groveland Housing Authority Phone: (978)374-0370Fax: (978)374-7621," 10 River Pines Drive Groveland
+43,MA132, Groveland Housing Authority ,director@grovelandha.org, (978)374-0370, (978)374-7621," 10 River Pines Drive Groveland
       MA 01834 ", Low-Rent 
-44,MA121, Halifax Housing Authority Phone: (781)294-4520Fax: (781)294-7210," One Parsons Lane Halifax
+44,MA121, Halifax Housing Authority ,elainesdolan@comcast.net, (781)294-4520, (781)294-7210," One Parsons Lane Halifax
       MA 02338 ", Section 8 
-45,MA155, Hanson Housing Authority Phone: (781)293-7474Fax: (781)294-7839," Meetinghouse Lane Hanson
+45,MA155, Hanson Housing Authority ,kreillyhha@comcast.net, (781)293-7474, (781)294-7839," Meetinghouse Lane Hanson
       MA 02341 ", Both 
-46,MA087, Haverhill Housing Authority Phone: (978)372-6761Fax: (978)373-1107," 25-C Washington Square Haverhill
+46,MA087, Haverhill Housing Authority ,dennis@haverhillhousing.com, (978)372-6761, (978)373-1107," 25-C Washington Square Haverhill
       MA 01831 ", Section 8 
-47,MA119, Hingham Housing Authority Phone: (781)741-1417Fax: (781)741-9888," 30 Thaxter Street Hingham
+47,MA119, Hingham Housing Authority ,edirector@verizon.net, (781)741-1417, (781)741-9888," 30 Thaxter Street Hingham
       MA 02043 ", Section 8 
-48,MA072, Holbrook Housing Authority Phone: (781)767-0024Fax: (781)767-4081," 1 Holbrook Court Holbrook
+48,MA072, Holbrook Housing Authority ,npgordon@comcast.net, (781)767-0024, (781)767-4081," 1 Holbrook Court Holbrook
       MA 02343 ", Section 8 
-49,MA082, Holden Housing Authority Phone: (508)829-9182Fax: (508)829-5196," 9 Flagler Drive Holden
+49,MA082, Holden Housing Authority ,holden.housing@verizon.net, (508)829-9182, (508)829-5196," 9 Flagler Drive Holden
       MA 01520 ", Section 8 
-50,MA165, Holliston Housing Authority Phone: (508)429-6266Fax: (508)429-2507," Cole Court 
+50,MA165, Holliston Housing Authority ,Holliston.ha@verizon.net, (508)429-6266, (508)429-2507," Cole Court 
       492 Washington Street Holliston
       MA 01746 ", Section 8 
-51,MA005, Holyoke Housing Authority Phone: (413)539-2220Fax: (413)532-7283," 475 Maple Street Holyoke
+51,MA005, Holyoke Housing Authority ,rdeane@holyokehousing.org, (413)539-2220, (413)532-7283," 475 Maple Street Holyoke
       MA 01040 ", Both 
-52,MA091, Hudson Housing Authority Phone: (978)562-9268Fax: (978)562-4623," 8 Brigham Circle Hudson
+52,MA091, Hudson Housing Authority ,hudsonha@aol.com, (978)562-9268, (978)562-4623," 8 Brigham Circle Hudson
       MA 01749 ", Both 
-53,MA046, Barnstable Housing Authority Phone: (508)771-7222Fax: (508)778-9312," 500 Old Colony Road Hyannis
+53,MA046, Barnstable Housing Authority ,sandee_perry@bha.barnstable.ma.us, (508)771-7222, (508)778-9312," 500 Old Colony Road Hyannis
       MA 02601 ", Both 
-54,MA056, Ipswich Housing Authority Phone: (978)356-2860Fax: (978)356-7715," 1 Agawam Village Ipswich
+54,MA056, Ipswich Housing Authority ,ipswichhousing.authority@verizon.net, (978)356-2860, (978)356-7715," 1 Agawam Village Ipswich
       MA 01938 ", Section 8 
-55,MA010, Lawrence Housing Authority Phone: (978)685-3811Fax: (978)685-6599," 353 Elm Street Lawrence
+55,MA010, Lawrence Housing Authority ,lhamail@lawrencehousing.org, (978)685-3811, (978)685-6599," 353 Elm Street Lawrence
       MA 01841 ", Both 
-56,MA086, Leominster Housing Authority Phone: (978)537-5300Fax: (978)534-5335," 100 Main Street Leominster
+56,MA086, Leominster Housing Authority ,gene@leominsterha.com, (978)537-5300, (978)534-5335," 100 Main Street Leominster
       MA 01453 ", Section 8 
-57,MA067, Lexington Housing Authority Phone: (781)861-0900Fax: (781)861-1938," 1 Countryside Village Lexington
+57,MA067, Lexington Housing Authority ,SKeane@lexingtonhousingauthority.org, (781)861-0900, (781)861-1938," 1 Countryside Village Lexington
       MA 02420 ", Both 
-58,MA001, Lowell Housing Authority Phone: (978)937-3500Fax: (978)937-5758," 350 Moody Street Lowell
+58,MA001, Lowell Housing Authority ,gwallace@lhma.org, (978)937-3500, (978)937-5758," 350 Moody Street Lowell
       MA 01879 ", Both 
-59,MA882," Community Teamwork, Inc. Phone: (978)459-0551Fax: (978)453-9128"," 155 Merrimack Street Lowell
+59,MA882," Community Teamwork, Inc. ",EHealey@COMTEAM.ORG, (978)459-0551, (978)453-9128," 155 Merrimack Street Lowell
       MA 01852 ", Section 8 
-60,MA881," Middlesex North Resources Center, Inc. Phone: (781)599-4220Fax: (781)593-1737"," 35 Market Street Lowell
+60,MA881," Middlesex North Resources Center, Inc. ",ewhite@bridgewell.org, (781)599-4220, (781)593-1737," 35 Market Street Lowell
       MA 01852 ", Section 8 
-61,MA023, Lynn Housing Authority Phone: (781)581-8600Fax: (781)592-6296," 10 Church Street Lynn
+61,MA023, Lynn Housing Authority ,cgaeta@lhand.org, (781)581-8600, (781)592-6296," 10 Church Street Lynn
       MA 01902 ", Both 
-62,MA880, Bridgewell Phone: (781)593-1088Fax: (781)593-5731," 471 Broadway Lynnfield
+62,MA880, Bridgewell ,ewhite@bridgewell.org, (781)593-1088, (781)593-5731," 471 Broadway Lynnfield
       MA 01940 ", Section 8 
-63,MA022, Malden Housing Authority Phone: (781)322-3150Fax: (781)322-3543," 630 Salem Street Malden
+63,MA022, Malden Housing Authority ,SFinn@maldenhousing.org, (781)322-3150, (781)322-3543," 630 Salem Street Malden
       MA 02148 ", Both 
-64,MA134, Mansfield Housing Authority Phone: (508)339-6890Fax: (508)339-4956," 22 Bicentennial Court Mansfield
+64,MA134, Mansfield Housing Authority ,housingauthority@mansfieldhousing.com, (508)339-6890, (508)339-4956," 22 Bicentennial Court Mansfield
       MA 02048 ", Section 8 
-65,MA070, Marlborough Housing Authority Phone: (508)624-6908Fax: (508)460-3749," 255 Main Street, Suite 212 Marlborough
+65,MA070, Marlborough Housing Authority ,jpappazisis@marborough-ma.gov, (508)624-6908, (508)460-3749," 255 Main Street, Suite 212 Marlborough
       MA 01752 ", Section 8 
-66,MA137, Maynard Housing Authority Phone: (978)897-8738Fax: (978)897-3583," 15 Powder Mill Circle Maynard
+66,MA137, Maynard Housing Authority ,maynard.housing@verizon.net, (978)897-8738, (978)897-3583," 15 Powder Mill Circle Maynard
       MA 01754 ", Low-Rent 
-67,MA015, Medford Housing Authority Phone: (781)396-7200Fax: (781)393-9223," 121 Riverside Avenue Medford
+67,MA015, Medford Housing Authority ,rcovelle@medfordhousing.org, (781)396-7200, (781)393-9223," 121 Riverside Avenue Medford
       MA 02155 ", Both 
-68,MA157, Medway Housing Authority Phone: (508)533-2434Fax: (508)533-3402," 600 Mahan Circle Medway
+68,MA157, Medway Housing Authority ,medway.ha@verizon.net, (508)533-2434, (508)533-3402," 600 Mahan Circle Medway
       MA 02053 ", Low-Rent 
-69,MA063, Melrose Housing Authority Phone: (781)665-1622Fax: (781)665-6043," 910 Main Street Melrose
+69,MA063, Melrose Housing Authority ,AMS@Melroseha.com, (781)665-1622, (781)665-6043," 910 Main Street Melrose
       MA 02176 ", Section 8 
-70,MA113, Merrimac Housing Authority Phone: (978)388-2022Fax: (978)388-4926," 52 Merri Village Merrimac
+70,MA113, Merrimac Housing Authority ,ahaexecutive@adelphia.net, (978)388-2022, (978)388-4926," 52 Merri Village Merrimac
       MA 01860 ", Section 8 
-71,MA081, Methuen Housing Authority Phone: (978)682-8607Fax: (978)794-3534," 25 Jade Street Methuen
+71,MA081, Methuen Housing Authority ,methuenha@hotmail.com, (978)682-8607, (978)794-3534," 25 Jade Street Methuen
       MA 01844 ", Both 
-72,MA060, Middleborough Housing Authority Phone: (508)947-3824Fax: (508)947-6393," 8 Benton Street Middleborough
+72,MA060, Middleborough Housing Authority ,jruthwicz.mha@verizon.net, (508)947-3824, (508)947-6393," 8 Benton Street Middleborough
       MA 02346 ", Section 8 
-73,MA069, Milford Housing Authority Phone: (508)473-9521Fax: (508)473-4218," 45 Birmingham Court Milford
+73,MA069, Milford Housing Authority ,pmorrill@milfordhousing.org, (508)473-9521, (508)473-4218," 45 Birmingham Court Milford
       MA 01757 ", Both 
-74,MA154, Millis Housing Authority Phone: (508)376-8181Fax: (508)376-6040," 310 Exchange Street Millis
+74,MA154, Millis Housing Authority ,millishousing@comcast.net, (508)376-8181, (508)376-6040," 310 Exchange Street Millis
       MA 02054 ", Section 8 
-75,MA147, Milton Housing Authority Phone: (617)698-2169Fax: (617)696-3513," 65 Miller Avenue Milton
+75,MA147, Milton Housing Authority ,Milt.ha@verizon.net, (617)698-2169, (617)696-3513," 65 Miller Avenue Milton
       MA 02186 ", Section 8 
-76,MA092, Natick Housing Authority Phone: (508)653-2971Fax: (508)650-9982," 4 Cottage Street Natick
+76,MA092, Natick Housing Authority ,emerritt@natickha.org, (508)653-2971, (508)650-9982," 4 Cottage Street Natick
       MA 01760 ", Section 8 
-77,MA065, Needham Housing Authority Phone: (781)444-3011Fax: (781)444-1089," 28 Captain Robert Cook Drive Needham
+77,MA065, Needham Housing Authority ,NeedhamHA@aol.com, (781)444-3011, (781)444-1089," 28 Captain Robert Cook Drive Needham
       MA 02494 ", Both 
-78,MA007, New Bedford Housing Authority Phone: (508)997-4806Fax: (508)997-4807," 134 South Second Street New Bedford
+78,MA007, New Bedford Housing Authority ,nbhaexdir@yahoo.com, (508)997-4806, (508)997-4807," 134 South Second Street New Bedford
       MA 02740 ", Both 
-79,MA032, Newburyport Housing Authority Phone: (978)465-7216Fax: (978)463-3080," 25 Temple Street Newburyport
+79,MA032, Newburyport Housing Authority ,cccashman@nhahousing.com, (978)465-7216, (978)463-3080," 25 Temple Street Newburyport
       MA 01950 ", Both 
-80,MA036, Newton Housing Authority Phone: (617)552-5501Fax: (617)964-8387," 82 Lincoln Street Newton Highlands
+80,MA036, Newton Housing Authority ,hepstein@newtonhousing.org, (617)552-5501, (617)964-8387," 82 Lincoln Street Newton Highlands
       MA 02461 ", Both 
-81,MA034, North Adams Housing Authority Phone: (413)663-5379Fax: (413)664-7223," 150 Ashland Street North Adams
+81,MA034, North Adams Housing Authority ,Jenn_hohn@northadamsha.com, (413)663-5379, (413)664-7223," 150 Ashland Street North Adams
       MA 01247 ", Both 
-82,MA107, North Andover Housing Authority Phone: (978)682-3932Fax: (978)794-1142," One Morkeski Meadows North Andover
+82,MA107, North Andover Housing Authority ,jcomerford@northandoverha.com, (978)682-3932, (978)794-1142," One Morkeski Meadows North Andover
       MA 01845 ", Both 
-83,MA170, North Attleborough Housing Authority Phone: (508)695-5142Fax: (508)695-6847," 20 South Washington Street North Attleborough
+83,MA170, North Attleborough Housing Authority ,clnaha@conversent.net, (508)695-5142, (508)695-6847," 20 South Washington Street North Attleborough
       MA 02760 ", Section 8 
-84,MA122, Easton Housing Authority Phone: (508)238-4747Fax: (508)230-9694," Parker Terrace North Easton
+84,MA122, Easton Housing Authority ,housingauthority@eastonhousing.com, (508)238-4747, (508)230-9694," Parker Terrace North Easton
       MA 02356 ", Section 8 
-85,MA089, North Reading Housing Authority Phone: (978)664-2982Fax: (978)664-3599," One Peabody Court North Reading
+85,MA089, North Reading Housing Authority ,nreadingha@comcast.net, (978)664-2982, (978)664-3599," One Peabody Court North Reading
       MA 01864 ", Section 8 
-86,MA026, Northampton Housing Authority Phone: (413)584-4030Fax: (413)582-1350," 49 Old South Street Northampton
+86,MA026, Northampton Housing Authority ,jhite@hamphousing.org, (413)584-4030, (413)582-1350," 49 Old South Street Northampton
       MA 01060 ", Both 
-87,MA109, Norwood Housing Authority Phone: (781)762-8115Fax: (781)762-4942," 40 William Shyne Circle Norwood
+87,MA109, Norwood Housing Authority ,smerritt@norwoodha.org, (781)762-8115, (781)762-4942," 40 William Shyne Circle Norwood
       MA 02062 ", Both 
-88,MA106, Oxford Housing Authority Phone: (508)987-5055Fax: (508)987-0581," 23 Wheelock Street Oxford
+88,MA106, Oxford Housing Authority ,oxfordha@hotmail.com, (508)987-5055, (508)987-0581," 23 Wheelock Street Oxford
       MA 01540 ", Section 8 
-89,MA054, Peabody Housing Authority Phone: (978)531-1938Fax: (978)977-0489," 75 Central Street, Suite 2 Peabody
+89,MA054, Peabody Housing Authority ,amburns@peabodyhousing.org, (978)531-1938, (978)977-0489," 75 Central Street, Suite 2 Peabody
       MA 01960 ", Section 8 
-90,MA111, Pembroke Housing Authority Phone: (781)293-3088Fax: (781)293-6316," Kilcommons Dr. Pembroke
+90,MA111, Pembroke Housing Authority ,director@pembrokehousing.org, (781)293-3088, (781)293-6316," Kilcommons Dr. Pembroke
       MA 02359 ", Both 
-91,MA187, Berkshire County Regional Housing Authority Phone: (413)443-7138Fax: (413)443-8137," 150 North Street Pittsfield
+91,MA187, Berkshire County Regional Housing Authority ,chrisg@bcrha.com, (413)443-7138, (413)443-8137," 150 North Street Pittsfield
       MA 01201 ", Section 8 
-92,MA029, Pittsfield Housing Authority Phone: (413)443-5936Fax: (413)443-7294," 65 Columbus Avenue Pittsfield
+92,MA029, Pittsfield Housing Authority ,RDennisEnright@pittsfieldhousing.org, (413)443-5936, (413)443-7294," 65 Columbus Avenue Pittsfield
       MA 01201 ", Both 
-93,MA059, Plymouth Housing Authority Phone: (508)746-2105Fax: (508)746-9229," 130 Court Street Plymouth
+93,MA059, Plymouth Housing Authority ,jpimental@plymha.org, (508)746-2105, (508)746-9229," 130 Court Street Plymouth
       MA 02360 ", Both 
-94,MA110, Bourne Housing Authority Phone: (508)563-7485Fax: (508)564-7531," 871 Shore Road Pocasset
+94,MA110, Bourne Housing Authority ,bourneha@capecod.net, (508)563-7485, (508)564-7531," 871 Shore Road Pocasset
       MA 02559 ", Both 
-95,MA020, Quincy Housing Authority Phone: (617)847-4350Fax: (617)770-2876," 80 Clay Street Quincy
+95,MA020, Quincy Housing Authority ,jmacritchie@quincyha.com, (617)847-4350, (617)770-2876," 80 Clay Street Quincy
       MA 02170 ", Both 
-96,MA075, Reading Housing Authority Phone: (781)944-6755Fax: (781)944-6875," 22 Frank D. Tanner Drive Reading
+96,MA075, Reading Housing Authority ,rhalynw@verizon.net, (781)944-6755, (781)944-6875," 22 Frank D. Tanner Drive Reading
       MA 01867 ", Section 8 
-97,MA014, Revere Housing Authority Phone: (781)284-4394Fax: (781)284-0065," 70 Cooledge Street Revere
+97,MA014, Revere Housing Authority ,lshaw@revereha.com, (781)284-4394, (781)284-0065," 70 Cooledge Street Revere
       MA 02151 ", Both 
-98,MA133, Rockland Housing Authority Phone: (781)878-4156Fax: (781)871-6441," 8 Studley Court Rockland
+98,MA133, Rockland Housing Authority ,rhaexdir@verizon.net, (781)878-4156, (781)871-6441," 8 Studley Court Rockland
       MA 02370 ", Both 
-99,MA073, Rockport Housing Authority Phone: (978)546-3181Fax: (978)546-2306," 13 Millbrook Park Rockport
+99,MA073, Rockport Housing Authority ,rockport.ha@verizon.net, (978)546-3181, (978)546-2306," 13 Millbrook Park Rockport
       MA 01966 ", Section 8 
-100,MA055, Salem Housing Authority Phone: (978)744-4432Fax: (978)744-9614," 27 Charter Street Salem
+100,MA055, Salem Housing Authority ,salemha@comcast.net, (978)744-4432, (978)744-9614," 27 Charter Street Salem
       MA 01970 ", Both 
-101,MA174, Salisbury Housing Authority Phone: (978)462-8600Fax: (978)463-3512," 23 Beach Road Salisbury
+101,MA174, Salisbury Housing Authority ,dan@salisburyhousing.org, (978)462-8600, (978)463-3512," 23 Beach Road Salisbury
       MA 01952 ", Section 8 
-102,MA181, Sandwich Housing Authority Phone: (508)833-4979Fax: (508)833-4993," 20 Tom's Way Sandwich
+102,MA181, Sandwich Housing Authority ,Paula.Schnepp@sandwichhousing.org, (508)833-4979, (508)833-4993," 20 Tom's Way Sandwich
       MA 02563 ", Section 8 
-103,MA099, Saugus Housing Authority Phone: (781)233-2116Fax: (781)233-3531," 19 Talbot Street Saugus
+103,MA099, Saugus Housing Authority ,saugusexdir1@verizon.net, (781)233-2116, (781)233-3531," 19 Talbot Street Saugus
       MA 01906 ", Both 
-104,MA049, Scituate Housing Authority Phone: (781)545-3375Fax: (781)544-0058," 791 Country Way Scituate
+104,MA049, Scituate Housing Authority ,scituate-ed@scituateha.org, (781)545-3375, (781)544-0058," 791 Country Way Scituate
       MA 02066 ", Low-Rent 
-105,MA041, Shrewsbury Housing Authority Phone: (508)757-0323Fax: (508)754-5210," 36 North Quinsigamond Avenue Shrewsbury
+105,MA041, Shrewsbury Housing Authority ,dmosborn1@aol.com, (508)757-0323, (508)754-5210," 36 North Quinsigamond Avenue Shrewsbury
       MA 01545 ", Both 
-106,MA031, Somerville Housing Authority Phone: (617)625-1152Fax: (617)628-7057," 30 Memorial Road Somerville
+106,MA031, Somerville Housing Authority ,jmac1003@aol.com, (617)625-1152, (617)628-7057," 30 Memorial Road Somerville
       MA 02145 ", Both 
-107,MA138, Dennis Housing Authority Phone: (508)394-3120Fax: (508)760-2352," 167 Center Street South Dennis
+107,MA138, Dennis Housing Authority ,directordha@verizon.net, (508)394-3120, (508)760-2352," 167 Center Street South Dennis
       MA 02660 ", Section 8 
-108,MA095, Yarmouth Housing Authority Phone: (508)398-2920Fax: (508)398-1930," Long Pond Plaza South Yarmouth
+108,MA095, Yarmouth Housing Authority ,yarhousing@comcast.net, (508)398-2920, (508)398-1930," Long Pond Plaza South Yarmouth
       MA 02664 ", Section 8 
-109,MA076, Southbridge Housing Authority Phone: (508)765-5858Fax: (508)764-2574," 60 Charlton Street Southbridge
+109,MA076, Southbridge Housing Authority ,Sobridgeha@aol.com, (508)765-5858, (508)764-2574," 60 Charlton Street Southbridge
       MA 01550 ", Section 8 
-110,MA035, Springfield Housing Authority Phone: (413)785-4513Fax: (413)785-4516," 25 Saab Court 
+110,MA035, Springfield Housing Authority ,wabrashkin@shamass.org, (413)785-4513, (413)785-4516," 25 Saab Court 
       PO Box 1609 Springfield
       MA 01101 ", Both 
-111,MA080, Stockbridge Housing Authority Phone: (413)298-3222Fax: (413)298-3844," 5 Pine Street 
+111,MA080, Stockbridge Housing Authority ,stockbridgehousing@roadrunner.com, (413)298-3222, (413)298-3844," 5 Pine Street 
       Heaton Court Stockbridge
       MA 01262 ", Section 8 
-112,MA117, Stoughton Housing Authority Phone: (781)344-6599Fax: (781)341-1957," 4 Capen Street Stoughton
+112,MA117, Stoughton Housing Authority ,SHA.dir@verizon.net, (781)344-6599, (781)341-1957," 4 Capen Street Stoughton
       MA 02072 ", Both 
-113,MA169, Swansea Housing Authority Phone: (508)679-5828Fax: (508)679-1563," 100 Gardner's Neck Road Swansea
+113,MA169, Swansea Housing Authority ,swanseaha@aol.com, (508)679-5828, (508)679-1563," 100 Gardner's Neck Road Swansea
       MA 02777 ", Low-Rent 
-114,MA017, Taunton Housing Authority Phone: (508)823-6308Fax: (508)822-3460," 30 Olney Street 
+114,MA017, Taunton Housing Authority ,tha@tmlp.com, (508)823-6308, (508)822-3460," 30 Olney Street 
       Suite B Taunton
       MA 02780 ", Both 
-115,MA139, Tewksbury Housing Authority Phone: (978)851-7392Fax: (978)640-7986," Delaney Drive Tewksbury
+115,MA139, Tewksbury Housing Authority ,dvernalia@tewksburyhousing.com, (978)851-7392, (978)640-7986," Delaney Drive Tewksbury
       MA 01876 ", Both 
-116,MA094, Franklin County Regional Housing Authority Phone: (413)863-9781Fax: (413)863-9289," 42 Canal Rd. Turners Falls
+116,MA094, Franklin County Regional Housing Authority ,rsherman@fcrhra.org, (413)863-9781, (413)863-9289," 42 Canal Rd. Turners Falls
       MA 01376 ", Section 8 
-117,MA074, Wakefield Housing Authority Phone: (781)245-7328Fax: (781)245-5136," 26 Crescent Street Wakefield
+117,MA074, Wakefield Housing Authority ,wakehasg@rcn.com, (781)245-7328, (781)245-5136," 26 Crescent Street Wakefield
       MA 01880 ", Both 
-118,MA140, Walpole Housing Authority Phone: (508)668-7878Fax: (508)660-9973," 8 Diamond Pond Terrace Walpole
+118,MA140, Walpole Housing Authority ,denise.landry2@verizon.net, (508)668-7878, (508)660-9973," 8 Diamond Pond Terrace Walpole
       MA 02081 ", Section 8 
-119,MA013, Waltham Housing Authority Phone: (781)894-3357Fax: (781)894-7595," 110 Pond Street Waltham
+119,MA013, Waltham Housing Authority ,walhous@tiac.net, (781)894-3357, (781)894-7595," 110 Pond Street Waltham
       MA 02451 ", Both 
-120,MA088, Ware Housing Authority Phone: (413)967-4477Fax: (413)967-7040," 20 Valley View Ware
+120,MA088, Ware Housing Authority ,warehousing@comcast.net, (413)967-4477, (413)967-7040," 20 Valley View Ware
       MA 01082 ", Section 8 
-121,MA105, Warren Housing Authority Phone: (413)436-7184Fax: (413)436-7184," 95 Winthrope Terrace 
+121,MA105, Warren Housing Authority ,warrenhousinga@yahoo.com, (413)436-7184, (413)436-7184," 95 Winthrope Terrace 
       PO Box 3021 Warren
       MA 01083 ", Section 8 
-122,MA093, Watertown Housing Authority Phone: (617)923-3950Fax: (617)923-2466," 55 Waverley Avenue Watertown
+122,MA093, Watertown Housing Authority ,WatertownH@aol.com, (617)923-3950, (617)923-2466," 55 Waverley Avenue Watertown
       MA 02472 ", Both 
-123,MA101, Wayland Housing Authority Phone: (508)655-6310Fax: (508)655-8566," 106 Main Street Wayland
+123,MA101, Wayland Housing Authority ,bboggia@waylandhousing.com, (508)655-6310, (508)655-8566," 106 Main Street Wayland
       MA 01778 ", Both 
-124,MA123, Webster Housing Authority Phone: (508)943-1634Fax: (508)949-6003," 10 Golden Heights Webster
+124,MA123, Webster Housing Authority ,paula.wha@onecommail.com, (508)943-1634, (508)949-6003," 10 Golden Heights Webster
       MA 01570 ", Both 
-125,MA135, Wellesley Housing Authority Phone: (781)235-0223Fax: (781)239-0802," 109 Barton Road Wellesley
+125,MA135, Wellesley Housing Authority ,NeedhamHA@aol.com, (781)235-0223, (781)239-0802," 109 Barton Road Wellesley
       MA 02181 ", Section 8 
-126,MA078, West Springfield Housing Authority Phone: (413)788-0988Fax: (413)788-8663," 37 Oxford Place West Springfield,
+126,MA078, West Springfield Housing Authority ,marilyn@wsha37.org, (413)788-0988, (413)788-8663," 37 Oxford Place West Springfield,
       MA 01089 ", Section 8 
-127,MA050, Westfield Housing Authority Phone: (413)568-9283Fax: (413)568-5357," 12 Alice Burke Way Westfield
+127,MA050, Westfield Housing Authority ,dkelly@westfieldhousing.com, (413)568-9283, (413)568-5357," 12 Alice Burke Way Westfield
       MA 01086 ", Section 8 
-128,MA045, Weymouth Housing Authority Phone: (781)331-2323Fax: (781)335-8214," 402 Essex Street Weymouth
+128,MA045, Weymouth Housing Authority ,mfwha@aol.com, (781)331-2323, (781)335-8214," 402 Essex Street Weymouth
       MA 02188 ", Both 
-129,MA066, Williamstown Housing Authority Phone: (413)458-8282Fax: (413)458-9698," 35 Adams Road Williamstown
+129,MA066, Williamstown Housing Authority ,williamstownhousingauthority@yahoo.com, (413)458-8282, (413)458-9698," 35 Adams Road Williamstown
       MA 01267 ", Section 8 
-130,MA061, Wilmington Housing Authority Phone: (978)658-8531Fax: (978)657-4003," Wilmington Housing Authority 
+130,MA061, Wilmington Housing Authority ,mhickeywha@aol.com, (978)658-8531, (978)657-4003," Wilmington Housing Authority 
       41 Deming Way Wilmington
       MA 01887 ", Section 8 
-131,MA039, Winchendon Housing Authority Phone: (978)297-2280Fax: (978)297-0922," 108 Ipswich Drive Winchendon
+131,MA039, Winchendon Housing Authority ,wha@net1plus.com, (978)297-2280, (978)297-0922," 108 Ipswich Drive Winchendon
       MA 01475 ", Both 
-132,MA125, Winchester Housing Authority Phone: (781)721-5718Fax: (781)721-5737," 13 Westley Street Winchester
+132,MA125, Winchester Housing Authority ,joe_lally@yahoo.com, (781)721-5718, (781)721-5737," 13 Westley Street Winchester
       MA 01890 ", Section 8 
-133,MA019, Woburn Housing Authority Phone: (781)935-0818Fax: (781)937-0965," 59 Campbell Street Woburn
+133,MA019, Woburn Housing Authority ,woburnha1@woburnhousing.org, (781)935-0818, (781)937-0965," 59 Campbell Street Woburn
       MA 01801 ", Both 
-134,MA012, Worcester Housing Authority Phone: (508)635-3000Fax: (508)635-3186," 40 Belmont Street Worcester
+134,MA012, Worcester Housing Authority ,RMariano@worcester-housing.com, (508)635-3000, (508)635-3186," 40 Belmont Street Worcester
       MA 01605 ", Both 
-135,MA188, The Bridge of Central Massachusetts Phone: (508)755-0333Fax: (508)755-2191," 4 Mann Street Worcester
+135,MA188, The Bridge of Central Massachusetts ,barryw@thebridgecm.org, (508)755-0333, (508)755-2191," 4 Mann Street Worcester
       MA 01602 ", Section 8 
